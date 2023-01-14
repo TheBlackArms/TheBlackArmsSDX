@@ -12,4 +12,4 @@ This time I want to make the swiss army knife of Unity3D with scripts and tools 
 I will never return to this name ever again  
 People seem to have been left in the dark without my work  
 I recently finally got the drive to go back to doing what I did before  
-That is why I am starting [Zenith Productions](https://github.com/Zenith-Productions/Zenith-Unity-Kit)  
+That is why I am starting the [Zenith Productions Unity Kit](https://github.com/Zenith-Productions/Zenith-Unity-Kit)  
